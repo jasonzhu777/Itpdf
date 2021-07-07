@@ -4,7 +4,7 @@
 
 |   |    |    |    |     |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|[Erlang](https://github.com/jasonzhu777/erlangpdf/pdf#c-语言)  | | | |
+|[Erlang](https://github.com/jasonzhu777/erlangpdf/pdf#Erlang-语言)  | | | |
 
 ## Erlang 语言
 
