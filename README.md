@@ -4,7 +4,8 @@
 
 |   |    |    |    |     |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|[Erlang](https://github.com/jasonzhu777/Itpdf#Erlang-语言)  | [计算机安全](https://github.com/jasonzhu777/Itpdf#计算机安全)| [数据结构](https://github.com/jasonzhu777/Itpdf#数据结构)|[数据库](https://github.com/jasonzhu777/Itpdf#数据库) |
+|[Erlang](https://github.com/jasonzhu777/Itpdf#Erlang-语言)  | [计算机安全](https://github.com/jasonzhu777/Itpdf#计算机安全)| [数据结构](https://github.com/jasonzhu777/Itpdf#数据结构)|[数据库](https://github.com/jasonzhu777/Itpdf#数据库) | [JavaScript](https://github.com/jasonzhu777/Itpdf#JavaScript)|
+| [编码](https://github.com/jasonzhu777/Itpdf#编码方面) | |  |  |  |
 
 ## Erlang 语言
 
@@ -24,6 +25,14 @@
 
 ## 数据库
 《MySQL技术内幕 InnoDB存储引擎 第2版》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1HjQPhQcAJ4rBO_Gp0W9qsg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：5ktq
+
+## JavaScript
+《JavaScript高级程序设计 第3版》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1gw-WAhfL-WsRQTyRQmQ0UQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：mkbl
+
+## 编码方面
+《汇编语言(第3版) 王爽著》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1cR7AhnDwjfwQFjFeIB291w)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：yx8x
+
+《编码的奥秘》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1TgWnQqxjMi5slvJY9rmKkQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：547g
 
 ## 免责声明
 
