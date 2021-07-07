@@ -4,7 +4,7 @@
 
 |   |    |    |    |     |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|[Erlang](https://github.com/jasonzhu777/erlangpdf#Erlang-语言)  | [计算机安全](https://github.com/jasonzhu777/erlangpdf#计算机安全)| [数据结构](https://github.com/jasonzhu777/erlangpdf#数据结构)|[数据库](https://github.com/jasonzhu777/erlangpdf#数据库) |
+|[Erlang](https://github.com/jasonzhu777/Itpdf#Erlang-语言)  | [计算机安全](https://github.com/jasonzhu777/Itpdf#计算机安全)| [数据结构](https://github.com/jasonzhu777/Itpdf#数据结构)|[数据库](https://github.com/jasonzhu777/Itpdf#数据库) |
 
 ## Erlang 语言
 
