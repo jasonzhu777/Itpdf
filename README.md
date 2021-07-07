@@ -2,6 +2,8 @@
 
 说明：这些书籍重点是找erlang方面的，当然也会有一些比较难找的计pdf，后续会陆续提交，大家可以持续关注这个项目。
 
+包括[Erlang](https://github.com/jasonzhu777/Itpdf#Erlang-语言)，[计算机安全](https://github.com/jasonzhu777/Itpdf#计算机安全)，[数据结构](https://github.com/jasonzhu777/Itpdf#数据结构)，[数据库](https://github.com/jasonzhu777/Itpdf#数据库)，[JavaScript](https://github.com/jasonzhu777/Itpdf#JavaScript)，[编码](https://github.com/jasonzhu777/Itpdf#编码方面)等
+
 |   |    |    |    |     |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 |[Erlang](https://github.com/jasonzhu777/Itpdf#Erlang-语言)  | [计算机安全](https://github.com/jasonzhu777/Itpdf#计算机安全)| [数据结构](https://github.com/jasonzhu777/Itpdf#数据结构)|[数据库](https://github.com/jasonzhu777/Itpdf#数据库) | [JavaScript](https://github.com/jasonzhu777/Itpdf#JavaScript)|
