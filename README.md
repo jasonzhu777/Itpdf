@@ -4,13 +4,20 @@
 
 |   |    |    |    |     |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|[Erlang](https://github.com/jasonzhu777/erlangpdf#Erlang-语言)  | | | |
+|[Erlang](https://github.com/jasonzhu777/erlangpdf#Erlang-语言)  | [计算机安全](https://github.com/jasonzhu777/erlangpdf#计算机安全)| | |
 
 ## Erlang 语言
 
 《高伸缩性系统：Erlang、OTP大型分布式容错设计》_林建入译.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1Utx22Sj-d0Xje3CU9w-ZYw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：gyly
 
 《Erlang OTP并发编程实战-中文版》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1OVc7anDdJdCHYggEU5Bwkg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：kiyn
+
+《Erlang程序设计(第2版》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1QCVl7du11ksM_94W22yunQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ibi1
+
+## 计算机安全
+《SQL注入攻击与防御 第2版》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1A0bMtphGJweCw4JDC-kpLQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：zzvq
+
+《621298 白帽子讲WEB安全 纪念版》.pdf&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1eC93ObOj7SYDDNrZjEjQtg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;百度云提取码：ngx6
 
 ## 免责声明
 
